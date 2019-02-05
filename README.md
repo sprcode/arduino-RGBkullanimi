@@ -14,4 +14,6 @@ Detaylı bilgi ve kod açıklamaları için https://sprcode.com/rgb-kullanimi-po
 
 <h2> Bağlantı Şeması </h2>
 
+![foto](https://user-images.githubusercontent.com/47007407/52276026-296c2d80-2962-11e9-85c4-900acd072e7a.jpg)
+
 
